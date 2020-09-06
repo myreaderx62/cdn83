@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang='en-US' id='RssFeedList'>
+<head><title>RSS Feeds</title>
+<base href="http://interglacial.com/rss/" />
+<link rel="stylesheet" href="index.css" type="text/css"
+ title="main_stylesheet" />
+</head>
+<body>
+
+
+<h1>RSS Feeds</h1>
+
+
+
+<p id="about">
+
+RSS is a way to tell when a web site has something new.
+You just tell your <a href="http://directory.google.com/Top/Reference/Libraries/Library_and_Information_Science/Technical_Services/Cataloguing/Metadata/RDF/Applications/RSS/News_Readers/"
+>RSS reader program</a> (or browser extension)
+to watch an RSS file, and when that file changes,
+your reader will tell you about new items at the web site
+that that RSS monitors.
+<br><a href="/rss/about.html">&raquo;&raquo; More about RSS</a>
+<br><br>Below are some RSS feeds that this site hosts:
+</p>
+
+<ul>
+<li><a href="artisdead.rss" class="rss" title="Art Is Dead">RSS</a> for
+<a href="artisdead.html"
+>Art Is Dead</a>
+- Photography by David Ondrik&nbsp;</li>
+<li><a href="bob_the_angry_flower.rss" class="rss" title="Bob the Angry Flower">RSS</a> for
+<a href="bob_the_angry_flower.html"
+>Bob the Angry Flower</a>&nbsp;</li>
+<li><a href="buffalo_report.rss" class="rss" title="Buffalo Report">RSS</a> for
+<a href="buffalo_report.html"
+>Buffalo Report</a>
+- Freedom of the press free enough to get you in trouble&nbsp;</li>
+<li><a href="cake.rss" class="rss" title="CAKE">RSS</a> for
+<a href="cake.html"
+>CAKE</a>
+- News and ideas from the band CAKE&nbsp;</li>
+<li><a href="carol_lay.rss" class="rss" title="Carol Lay">RSS</a> for
+<a href="carol_lay.html"
+>Carol Lay</a>
+- Carol Lay draws it, you totally read it, no questions asked.&nbsp;</li>
+<li><a href="capalert_movies.rss" class="rss" title="ChildCare Action Project (CAP) Ministry Reports">RSS</a> for
+<a href="capalert_movies.html"
+>ChildCare Action Project (CAP) Ministry Reports</a>
+- Cahiers du cin&#233;ma meets Christian Analysis of American Culture&nbsp;</li>
+<li><a href="clock_of_the_long_now.rss" class="rss" title="The Clock of the Long Now">RSS</a> for
+<a href="clock_of_the_long_now.html"
+>The Clock of the Long Now</a>
+- Today's chime for the Clock of the Long Now&nbsp;</li>
+<li><a href="jerkcity_jumble.rss" class="rss" title="The Daily Jerkcity Jumble">RSS</a> for
+<a href="jerkcity_jumble.html"
+>The Daily Jerkcity Jumble</a>&nbsp;</li>
+<li><a href="edge.rss" class="rss" title="The Edge">RSS</a> for
+<a href="edge.html"
+>The Edge</a>
+- The Edge: Promoting inquiry into and discussion of intellectual, philosophical, artistic, and literary issues&nbsp;</li>
+<li><a href="explodingdog.rss" class="rss" title="explodingdog">RSS</a> for
+<a href="explodingdog.html"
+>explodingdog</a>
+- sam will draw pictures from your titles&nbsp;</li>
+<li><a href="filthy_critic.rss" class="rss" title="The Filthy Critic">RSS</a> for
+<a href="filthy_critic.html"
+>The Filthy Critic</a>&nbsp;</li>
+<li><a href="300bluebottles_youtube.rss" class="rss" title="Fun things 300bluebottles sees at Youtube">RSS</a> for
+<a href="300bluebottles_youtube.html"
+>Fun things 300bluebottles sees at Youtube</a>&nbsp;</li>
+<li><a href="sburke_youtube.rss" class="rss" title="Fun things Sean sees at Youtube">RSS</a> for
+<a href="sburke_youtube.html"
+>Fun things Sean sees at Youtube</a>
+- Fun things SeanBurke sees at Youtube&nbsp;</li>
+<li><a href="futuredition.rss" class="rss" title="FUTUREdition">RSS</a> for
+<a href="futuredition.html"
+>FUTUREdition</a>&nbsp;</li>
+<li><a href="humorink.rss" class="rss" title="HumorInk">RSS</a> for
+<a href="humorink.html"
+>HumorInk</a>&nbsp;</li>
+<li><a href="kchronicles.rss" class="rss" title="The K-Chronicles">RSS</a> for
+<a href="kchronicles.html"
+>The K-Chronicles</a>
+- Bringing the "Funny" Back to the Funny Pages&nbsp;</li>
+<li><a href="ketchikan_daily_news_alaska.rss" class="rss" title="Ketchikan (Alaska) Daily News: Alaska News">RSS</a> for
+<a href="ketchikan_daily_news_alaska.html"
+>Ketchikan (Alaska) Daily News: Alaska News</a>&nbsp;</li>
+<li><a href="ketchikan_daily_news_local.rss" class="rss" title="Ketchikan (Alaska) Daily News: Ketchikan News">RSS</a> for
+<a href="ketchikan_daily_news_local.html"
+>Ketchikan (Alaska) Daily News: Ketchikan News</a>&nbsp;</li>
+<li><a href="leisuretown.rss" class="rss" title="Leisuretown One-Liners">RSS</a> for
+<a href="leisuretown.html"
+>Leisuretown One-Liners</a>&nbsp;</li>
+<li><a href="maakies.rss" class="rss" title="Maakies">RSS</a> for
+<a href="maakies.html"
+>Maakies</a>
+- Tony Millionaire's Maakies, Drinky Crow, Uncle Gabby&nbsp;</li>
+<li><a href="ernie_pooks_comeek.rss" class="rss" title="Marlys Magazine">RSS</a> for
+<a href="ernie_pooks_comeek.html"
+>Marlys Magazine</a>
+- Featuring Ernie Pook's Comeek and more from Lynda Barry&nbsp;</li>
+<li><a href="microgram.rss" class="rss" title="Microgram Bulletins">RSS</a> for
+<a href="microgram.html"
+>Microgram Bulletins</a>
+- Published by the Drug Enforcement Administration&nbsp;</li>
+<li><a href="nasa_modis_image_of_the_day.rss" class="rss" title="NASA MODIS Image of the Day">RSS</a> for
+<a href="nasa_modis_image_of_the_day.html"
+>NASA MODIS Image of the Day</a>
+- Daily Images from the Moderate Resolution Imaging Spectroradiometer sensors on the NASA Earth Observing System satellites Terra and Aqua.&nbsp;</li>
+<li><a href="neruda.rss" class="rss" title="Neruda- Preguntas">RSS</a> for
+<a href="neruda.html"
+>Neruda- Preguntas</a>&nbsp;</li>
+<li><a href="rotten_library.rss" class="rss" title="New items at the Rotten Library">RSS</a> for
+<a href="rotten_library.html"
+>New items at the Rotten Library</a>&nbsp;</li>
+<li><a href="pbs_programs.rss" class="rss" title="New PBS programs">RSS</a> for
+<a href="pbs_programs.html"
+>New PBS programs</a>&nbsp;</li>
+<li><a href="sburke_pictures.rss" class="rss" title="New pictures I've taken">RSS</a> for
+<a href="sburke_pictures.html"
+>New pictures I've taken</a>&nbsp;</li>
+<li><a href="rss.rss" class="rss" title="New RSSs at Interglacial">RSS</a> for
+<a href="rss.html"
+>New RSSs at Interglacial</a>&nbsp;</li>
+<li><a href="something_awful_smilies.rss" class="rss" title="New Something Awful smilies">RSS</a> for
+<a href="something_awful_smilies.html"
+>New Something Awful smilies</a>
+- Something Awful Forums reveal our ever-expanding emotional lexicon.&nbsp;</li>
+<li><a href="new_yorker_cartoon.rss" class="rss" title="New Yorker Cartoons!">RSS</a> for
+<a href="new_yorker_cartoon.html"
+>New Yorker Cartoons!</a>&nbsp;</li>
+<li><a href="bush999.rss" class="rss" title="The nine hundred and ninety-nine names of George W. Bush">RSS</a> for
+<a href="bush999.html"
+>The nine hundred and ninety-nine names of George W. Bush</a>&nbsp;</li>
+<li><a href="fresh_air.xml" class="rss" title="NPR Programs: Fresh Air Podcast">RSS</a> for
+<a href="fresh_air.html"
+>NPR Programs: Fresh Air Podcast</a>
+- Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries.&nbsp;</li>
+<li><a href="oblique_strategies.rss" class="rss" title="Oblique Strategies">RSS</a> for
+<a href="oblique_strategies.html"
+>Oblique Strategies</a>
+- Pats on the back of your mind, by Brian Eno and Peter Schmidt&nbsp;</li>
+<li><a href="oreilly_open_books.rss" class="rss" title="O'Reilly Open Books">RSS</a> for
+<a href="oreilly_open_books.html"
+>O'Reilly Open Books</a>&nbsp;</li>
+<li><a href="moon_phase.rss" class="rss" title="Phase of the Moon">RSS</a> for
+<a href="moon_phase.html"
+>Phase of the Moon</a>&nbsp;</li>
+<li><a href="pokey_the_penguin.rss" class="rss" title="Pokey the Penguin">RSS</a> for
+<a href="pokey_the_penguin.html"
+>Pokey the Penguin</a>&nbsp;</li>
+<li><a href="purple_monkey_dishwasher.rss" class="rss" title="Purple Monkey Dishwasher">RSS</a> for
+<a href="purple_monkey_dishwasher.html"
+>Purple Monkey Dishwasher</a>
+- Up-to-the-minute news from the Dissociated Press&nbsp;</li>
+<li><a href="rabbitblog.rss" class="rss" title="Rabbit Blog">RSS</a> for
+<a href="rabbitblog.html"
+>Rabbit Blog</a>
+- Rabbit's life is a patio of fun!&nbsp;</li>
+<li><a href="rupaul.rss" class="rss" title="RuPaul">RSS</a> for
+<a href="rupaul.html"
+>RuPaul</a>
+- (Supermodel!)&nbsp;</li>
+<li><a href="shkoyach.rss" class="rss" title="Sh'koyach - The New Age Jewish Comic Strip">RSS</a> for
+<a href="shkoyach.html"
+>Sh'koyach - The New Age Jewish Comic Strip</a>&nbsp;</li>
+<li><a href="symbols.rss" class="rss" title="A Symbol A Day">RSS</a> for
+<a href="symbols.html"
+>A Symbol A Day</a>&nbsp;</li>
+<li><a href="ted_rall.rss" class="rss" title="Ted Rall omnium gatherum">RSS</a> for
+<a href="ted_rall.html"
+>Ted Rall omnium gatherum</a>&nbsp;</li>
+<li><a href="yhchang.rss" class="rss" title="Young-Hae Chang Heavy Industries">RSS</a> for
+<a href="yhchang.html"
+>Young-Hae Chang Heavy Industries</a>
+- Trippy Flash Art The Way You Like It&nbsp;</li>
+
+</ul>
+
+
+
+
+<p class="footy"><a href="/~sburke/"><img
+ src="/~sburke/images/hy50x50.gif" height="50" width="50"
+   alt="Your humble webmaster "
+ title="Your humble webmaster"
+></a></p>
+
+<p class='lj'><a href='lj_mine.html' accesskey='l'>Or at Livejournal...</a></p>
+
+<hr class='clear'>
+<p style="display: none"><a href="http://interglacial.com/~sburke/pitibagay.rss">Goodbye!</a></p>
+</body></html>
