@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js' lang='en'><!--<![endif]-->
+<head>
+	<base target="_top" />
+    <meta charset='utf-8'>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'>
+    <title>American Economic Association</title>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="route" value="meta">
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="2uHiRJ39JB4b79W5ibQ3WCYPvjV0eH26JrbVdC_ZCgiYq6AB8ZVgQVjCj9ux1WRsE0XSQBISH-gRh-Yeap5_Xw==">
+    <meta name="Secure-Key" content="STE4UkR0NFc4aHJEcUs0elBjaGJOTzEwaTZoYzFMaHVJZGQyVVVtdFI1Y2tKNGdQUHp8Z2VuZXJhbHxlamxyYUZwS2Fua1NXd1EuT0h3NEZqSmZMekVUSFM0aExsc3NMeUlkWDBwUFdGdGZCUkFiTHc9PQ==">    <meta name="jerTk" value="">
+    <link href="/assets/4241ddfb/stylesheets/AeaWebAsset-min.css" rel="stylesheet">
+<link href="/assets/8f92245c/themes/smoothness/jquery-ui.css" rel="stylesheet">
+<link href="/assets/4241ddfb/stylesheets/print.css" rel="stylesheet" media="print">
+<script src="/assets/23310d3e/jquery.js"></script>
+<script src="/assets/c3052fc2/yii.js"></script>
+<script src="/assets/4241ddfb/javascripts/vendor/modernizr.js"></script>
+<script src="//use.typekit.net/egr5vhm.js" integrity="sha256-POf4+oJdGET8Qpr+1Kiyf/k01+HFj7ExYqy0ImaZPw4= sha384-ovmnKAYp6EBeEzqLenKVsSdh4pKyWZoOkfEFMnpD8Qm2TlTTjvgqgRYy0vv17Awv sha512-NE+XQYdI0J1wLPpcew6pWCT6uDCLOIYdgsuGwH6fMNtVoZWKHQzNT6fyYX3oJ52dC5g0qcjideJDcYqXu1zbQw==" crossorigin="anonymous"></script>
+<script src="/assets/8f92245c/jquery-ui.js"></script>
+<script src="/assets/4241ddfb/javascripts/AeaWebPluginAsset-min.js"></script>
+<script src="/assets/c6e8308/js/SecureCsrfAsset-min.js"></script>
+<script src="/assets/9ba2855d/js/QueClientAsset-min.js"></script>
+<script>$(document).ready(function() { window.keyAnltcs = keyAnalytics(); });
+$(document).ready(function() { window.qClnt = new queClient({"token":"eVF1STkzd3FUVE80b1NySzg0Q1B6WWVzekZYZ1NSbHJpaHdBc1ppZURZMjF0bGNUanp8cXVldWVjbGllbnR8VEZsMWNTNVdaSFlXRHdNOVNHY3BSd1VQS2hCYkpEY3lkQjRFSDA4RFhSRXBhQVlMZldZdkZ3PT0="}); });
+(function(e){function t(t, n, r, o){"use strict"; function a(){for (var e, n = 0; u.length > n; n++)u[n].href && u[n].href.indexOf(t) > - 1 && (e = !0); e?i.media = r || "all":setTimeout(a)}var i = e.document.createElement("link"), c = n || e.document.getElementsByTagName("script")[0], u = e.document.styleSheets; return i.rel = "stylesheet", i.href = t, i.media = "only x", i.onload = o || function(){}, c.parentNode.insertBefore(i, c), a(), i}var n = function(r, o){"use strict"; if (r && 3 === r.length){var a = e.navigator, i = e.Image, c = !(!document.createElementNS || !document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || e.opera && - 1 === a.userAgent.indexOf("Chrome") || - 1 !== a.userAgent.indexOf("Series40")), u = new i; u.onerror = function(){n.method = "png", t(r[2])}, u.onload = function(){var e = 1 === u.width && 1 === u.height, a = r[e && c?0:e?1:2]; n.method = e && c?"svg":e?"datapng":"png", n.href = a, t(a, null, null, o)}, u.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==", document.documentElement.className += " grunticon"}}; n.loadCSS = t, e.grunticon = n})(this);grunticon(["https://www.aeaweb.org/assets/4241ddfb/grunticon/icons.data.svg.css", "https://www.aeaweb.org/assets/4241ddfb/grunticon/icons.data.png.css", "/assets/grunticon/icons.fallback.css"], grunticon.svgLoadedCallback);
+try{Typekit.load();}catch(e){}</script></head>
+<body class="home">
+
+<!--suppress ALL -->
+<header class="site-header" role="banner">
+    <div class="container">
+        <h1 class="site-name">
+            <a href="/"><img alt="American Economic Association" src="/assets/4241ddfb/images/logo.svg">
+            </a>
+        </h1>
+
+        <div class="nav-wrapper">
+
+            <div class="mobile-navigation">
+    <button class="menu-trigger">
+  <span class="menu-icon">
+    <div class="top-left wing"></div>
+    <div class="top-right wing"></div>
+    <div class="middle wing"></div>
+    <div class="bottom-left wing"></div>
+    <div class="bottom-right wing"></div>
+  </span>
+  <span class="trigger-text">
+    Menu
+  </span>
+    </button>
+</div>
+            <div class="navigation-container">
+
+                
+    <nav class="navigation-group" role="navigation">
+        <form class="search mobile-search" role="search" action="/search">
+            <div class="search-wrapper">
+                <input checked="checked" placeholder="Search" type="search" name="q">
+                <input checked="checked" class="icon-search-0" type="submit" value="Search">
+            </div>
+        </form>
+
+        <ul class="primary-navigation">
+            <li>
+                <a href="/journals">Journals</a>
+            </li>
+
+            <li>
+                <a href="/conference">Annual Meeting</a>
+            </li>
+            <li>
+
+                <a href="/joe">Careers</a>
+            </li>
+            <li>
+
+                <a href="/resources">Resources</a>
+            </li>
+            <li>
+
+                <a href="/econlit">EconLit</a>
+            </li>
+            <li>
+
+                <a href="/econspark">EconSpark</a>
+            </li>
+
+        </ul>
+        <span class="has-icon search-trigger-wrapper">
+<a class="search-trigger icon-searchclose-sprite" href="#search">
+</a>
+</span>
+
+        <ul class="utility-navigation">
+            <li>
+                <a href="/membership">Membership</a>
+            </li>
+            <li class="utility-about">
+                <a href="/about-aea">About AEA</a>
+            </li>
+
+                            <li>
+                    <a href="/login/">Log In</a>
+                </li>
+                    </ul>
+
+    </nav>
+
+    <script type="text/javascript">
+
+        function initLoggedinMenu(){
+
+            this.target = $(".utility-navigation");
+            this.menuItems   = null;
+            this.menuWrapper = null;
+
+            this.init = function(){
+
+                this.getMenuItems();
+                this.renderMenu();
+                this.setEvents();
+
+            }
+
+            this.hasMenuItems = function(){
+
+                if(this.menuItems !== null){
+                    return true;
+                }
+
+                return false;
+
+            }
+
+            this.destroyMenuWrapper = function(){
+
+                if($("#loggedin-utility-menu-wrapper").length > 0){
+                    $("#loggedin-utility-menu-wrapper").remove();
+                }
+
+            }
+
+            this.createMenuWrapper = function(){
+
+                this.destroyMenuWrapper();
+
+                $(this.target).append('<li id="loggedin-utility-menu-wrapper"></li>');
+                this.menuWrapper = $("#loggedin-utility-menu-wrapper");
+
+                return this.menuWrapper;
+            }
+
+            this.getMenuItems = function(){
+
+                var menuItems = null;
+
+                if($(".utility-loggedin").length <= 0){
+                    return;
+                }
+
+                if(this.menuItems !== null){
+                    return;
+                }
+
+                menuItems = [];
+
+                $(".utility-loggedin").each(function(){
+                    menuItems.push($(this));
+                });
+
+                this.menuItems = menuItems;
+
+            }
+
+            this.setMenuItems = function(){
+
+                $(this.menuWrapper).html('<li id="loggedin-utility-button">Profile</li><div id="loggedin-utility-list"></div>');
+
+                for(var item in this.menuItems){
+                    $(this.menuWrapper).find("#loggedin-utility-list").append('<li>'+this.menuItems[item].html()+'</li>');
+                }
+
+            }
+
+            this.renderMenu = function(){
+
+                if(!this.hasMenuItems()){
+                    return;
+                }
+
+                this.createMenuWrapper();
+                this.setMenuItems();
+
+            }
+
+            this.showHideList = function(){
+
+                var display = null;
+                var target = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                display = $(target).css("display");
+
+                if(display === "none"){
+                    $(target).css("display","block");
+                    this.positionList();
+                }else{
+                    $(target).css("display","none");
+                }
+
+            }
+
+            this.positionList = function(){
+
+                var btnHeight = null;
+                var button = $(this.menuWrapper).find("#loggedin-utility-button");
+                var list = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                btnHeight = $(this.menuWrapper).outerHeight(true);
+
+                $(list).css("top",(btnHeight - 2)+"px");
+
+            }
+
+            this.setEvents = function(){
+
+                var _self = this;
+
+                $(this.menuWrapper).find("#loggedin-utility-button").unbind();
+                $(this.menuWrapper).find("#loggedin-utility-button").bind("click",function(){
+
+                    _self.showHideList();
+
+                });
+
+            }
+
+        }
+
+        logMenu = new initLoggedinMenu();
+        logMenu.init();
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38835597-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+            </div>
+        </div>
+    </div>
+    <form class="search desktop-search" role="search" method="get" action="/search">
+        <div class="container">
+            <div class="search-wrapper">
+                <input placeholder="Search" type="search" name="q">
+                <input class="icon-search-0" type="submit" value="Search">
+            </div>
+        </div>
+    </form>
+</header>
+<main class="main-content " role="main"><div class="container">
+<section class='featured-homepage-items-wrapper'>
+
+    
+<section class='lead-homepage-item'>
+
+    <div class="imagery-container">
+        <img class="lead-image" src="/content/file?id=12914"/>
+    </div>
+
+    <div class='content'>
+        <span class='news-type'>Research highlight</span>
+
+        <h2 class='section-title'><a href="/research/minorities-economics-increase-gary-hoover" style="color:#FFFFFF !important;">What hurts minorities’ progress in economics?</a></h2>
+
+        
+        
+        <p class='summary'>Professor Gary Hoover discusses how to make the economics profession more welcoming to underrepresented groups.</p>
+        
+    </div>
+
+</section>
+    <section class='career-center'>
+        <div class='content'>
+
+            <h2 style="margin-top: -8px !important;" class='section-title'>JOE Network</h2>
+
+            <p class='summary'>The AEA's JOE Network is targeted to the comprehensive needs of employers, candidates, and faculty.</p>
+            <ul class='actions reset-list'>
+                <li><a class="button" href="/joe/listings.php">View job listings</a></li>
+                <li><a href="/joe/emp.php">Post a job listing</a></li>
+            </ul>
+
+			<h2 class='section-title'>Best Practices for Economists</h2>
+
+            <p class='summary'>Building a More Diverse, Inclusive, and Productive Profession.</p>
+            <ul style="padding-bottom: 0 !important; margin-bottom: 0 !important;" class='actions reset-list'>
+                <li style="margin-bottom: 0 !important; padding-bottom: 0 !important;"><a class="button"href="/resources/best-practices">View Best Practices</a></li>
+            </ul>
+			
+        </div>
+    </section>
+
+</section>
+
+<section class="homepage-news">
+    <h2 class="section-title">News</h2>
+
+    
+    <section class="news-item-group featured">
+                    <article class="news-item featured">
+                <img class="news-thumbnail" src="/content/file?id=12910"/>
+                <section class="news-text">
+                    <span class="news-type">Chart of the Week</span>
+
+                    <h3 class="title"><a href="/research/charts/financial-technology-big-data-information">Processing the rise of quantitative investing</a></h3>
+
+                    <div class="date">August 31, 2020</div>
+                    <p class="summary">Are financial experts shifting away from analyzing company fundamentals?</p>
+                </section>
+            </article>
+	                <article class="news-item featured">
+                <img class="news-thumbnail" src="/content/file?id=12900"/>
+                <section class="news-text">
+                    <span class="news-type">Research Highlight</span>
+
+                    <h3 class="title"><a href="/research/panics-frenzies-informational-efficiency-experiment">Market rushes</a></h3>
+
+                    <div class="date">August 28, 2020</div>
+                    <p class="summary">How well informed are traders during a panic?</p>
+                </section>
+            </article>
+	        </section>
+    
+    
+    <section class="news-item-group secondary">
+                    <article class="news-item">
+                <span class="news-type">Member Announcement</span>
+
+                <h3 class="title">
+                    <a href="/news/member-announcements-aug-20-2020">AEA Guidance on Timeline for 2020-21 Economics Job Cycle</a>
+                </h3>
+
+                <div class="date">August 20, 2020</div>
+            </article>
+	                <article class="news-item">
+                <span class="news-type">Chart of the Week</span>
+
+                <h3 class="title">
+                    <a href="/research/charts/wic-program-store-participation">A solution creates a problem</a>
+                </h3>
+
+                <div class="date">August 26, 2020</div>
+            </article>
+	                <article class="news-item">
+                <span class="news-type">Research Highlight</span>
+
+                <h3 class="title">
+                    <a href="/research/young-voter-preregistration-impact-turnout-policy">Boosting the youth vote</a>
+                </h3>
+
+                <div class="date">August 24, 2020</div>
+            </article>
+	        </section>
+
+    
+    <span class="all-news-link">
+          <a href="/news">See All News Articles »</a>
+    </span>
+
+</section>
+
+
+<section class='journals'>
+
+    <h2 class='section-title'>Journal Articles</h2>
+
+    <div class='toggle-content-group'>
+        <ul class='toggle'>
+        	        	<li><a  class="is-active"  href="#editors-choice">Featured</a></li>
+        	        	<li><a    href="#most-popular">Popular</a></li>
+        	        	<li><a    href="#forthcoming">Forthcoming</a></li>
+        	        </ul>
+    	        <section class='editors-choice journal-article-group toggle-content' id='editors-choice'>
+            
+                <div class="featured-group">
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/aer.20171673">Cities in Bad Shape: Urban Geometry in India</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Mariaflavia Harari                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/aer">American Economic Review</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/600">vol. 110, no. 8, August 2020</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/mic.20170102">History-Bound Reelections</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Hans Gersbach                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/mic">American Economic Journal: Microeconomics</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/599">vol. 12, no. 3, August 2020</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                </div>
+
+            
+                <div class="secondary-group">
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/pol.20180203">Youth Enfranchisement, Political Responsiveness, and Education Expenditure: Evidence from the US</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Graziella Bertocchi,                                                                                    Arcangelo Dimico,                                                                                    Francesco Lancia,                                                                                    Alessia Russo                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/pol">American Economic Journal: Economic Policy</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/601">vol. 12, no. 3, August 2020</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/jep.34.3.193">How You Can Work to Increase the Presence and Improve the Experience of Black, Latinx, and Native American People in the Economics Profession</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Amanda Bayer,                                                                                    Gary A. Hoover,                                                                                    Ebonya Washington                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/jep">Journal of Economic Perspectives</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/602">vol. 34, no. 3, Summer 2020</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/app.20170231">Fenced Out: The Impact of Border Construction on US-Mexico Migration</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Benjamin Feigenberg                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/app">American Economic Journal: Applied Economics</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/598">vol. 12, no. 3, July 2020</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                </div>
+
+                    </section>
+    	        <section class='most-popular journal-article-group toggle-content' id='most-popular'>
+            
+                <div class="featured-group">
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/0002828042002561">Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Marianne Bertrand,                                                                                    Sendhil Mullainathan                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/aer">American Economic Review</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/48">vol. 94, no. 4, September 2004</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/jep.31.2.211">Social Media and Fake News in the 2016 Election</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Hunt Allcott,                                                                                    Matthew Gentzkow                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/jep">Journal of Economic Perspectives</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/453">vol. 31, no. 2, Spring 2017</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                </div>
+
+            
+                <div class="secondary-group">
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/aer.20180649">Home Values and Firm Behavior</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Saleem Bahaj,                                                                                    Angus Foulis,                                                                                    Gabor Pinter                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/aer">American Economic Review</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/597">vol. 110, no. 7, July 2020</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/aer.20171445">Who Pays for the Minimum Wage?</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Peter Harasztosi,                                                                                    Attila Lindner                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/aer">American Economic Review</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/558">vol. 109, no. 8, August 2019</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/jep.34.2.49">Sociological Perspectives on Racial Discrimination</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Mario L. Small,                                                                                    Devah Pager                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/jep">Journal of Economic Perspectives</a>
+                                </li>
+
+                                
+																
+                                <li class='volume'>
+	
+                                    <a href="/issues/590">vol. 34, no. 2, Spring 2020</a>
+
+                                </li>
+								
+																
+                            </ul>
+                        </article>
+
+                    
+                </div>
+
+                    </section>
+    	        <section class='forthcoming journal-article-group toggle-content' id='forthcoming'>
+            
+                <div class="featured-group">
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/mic.20180191">The Competitive Effects of Transmission Infrastructure in the Indian Electricity Market</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Nicholas Ryan                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/mic">American Economic Journal: Microeconomics</a>
+                                </li>
+
+                                
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/aer.20171397">Competition and Entry in Agricultural Markets: Experimental Evidence from Kenya</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Lauren Bergquist,                                                                                    Michael Dinerstein                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/aer">American Economic Review</a>
+                                </li>
+
+                                
+																
+                            </ul>
+                        </article>
+
+                    
+                </div>
+
+            
+                <div class="secondary-group">
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/aeri.20190547">Job Loss, Credit, and Crime in Colombia</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Gaurav Khanna,                                                                                    Carlos Medina,                                                                                    Anant Nyshadham,                                                                                    Christian Posso,                                                                                    Jorge Tamayo                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/aeri">American Economic Review: Insights</a>
+                                </li>
+
+                                
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/app.20190147">The Political Premium of Television Celebrity</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Heyu Xiong                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/app">American Economic Journal: Applied Economics</a>
+                                </li>
+
+                                
+																
+                            </ul>
+                        </article>
+
+                    
+                        <article class='journal-article'>
+                            <h3 class='title'>
+                                <a href="/articles?id=10.1257/pol.20160613">Unemployment Insurance Generosity and Aggregate Employment</a>
+                            </h3>
+                            <ul class='attribution'>
+                                                                <li class='author'>
+                                                                                Christopher Boone,                                                                                    Arindrajit Dube,                                                                                    Lucas Goodman,                                                                                    Ethan Kaplan                                                                        </li>
+                                
+                                
+                                
+                                <li class='journal'>
+                                    <a href="/journals/pol">American Economic Journal: Economic Policy</a>
+                                </li>
+
+                                
+																
+                            </ul>
+                        </article>
+
+                    
+                </div>
+
+                    </section>
+    	    </div>
+
+    <span class="all-journals-link">
+          <a href="/journals">See All Journals »</a>
+    </span>
+
+</section>
+<section class="resources-membership-wrapper">
+    <section class='resources'>
+        <h2 class='section-title'>
+            Resources for Economists
+        </h2>
+        <ul>
+            <li class='last-col-1'>
+                <div class="resource-wrapper">
+                    <a href="/resources/data">Data Sources</a>
+                </div>
+            </li>
+            <li class='last-col-2'>
+                <div class="resource-wrapper">
+                    <a href="/resources/students">For Students</a> & <a href="/resources/teachers">Educators</a>
+                </div>
+            </li>
+            <li class='last-col-3'>
+                <div class="resource-wrapper">
+                    <a href="/economics-discussion-forum">EconSpark Forum</a>
+                    <a href="/econtrack"> & EconTrack</a>
+                </div>
+            </li>
+            <li class='last-col-4'>
+                <div class="resource-wrapper">
+                    <a href="/resources/conferences-meetings">Meetings &amp; Conferences</a>
+                </div>
+            </li>
+            <li class='last-col-5'>
+                <div class="resource-wrapper">
+                    <a href="/jel/guide/jel.php">JEL Codes Guide</a>
+                </div>
+            </li>
+            <li class='last-col-6'>
+                <div class="resource-wrapper">
+                    <a href="/resources/best-practices">Best Practices for Economists</a>
+                </div>
+            </li>
+        </ul>
+    </section>
+    <section class='membership'>
+        <h2 class='section-title'>
+            Membership
+        </h2>
+        <ul class='actions reset-list'>
+            <li><a class="button" href="/ms2/memStep1.php">Join AEA</a></li>
+            <li><a href="/membership">Member Benefits</a></li>
+        </ul>
+    </section>
+</section></div></main><footer class='site-footer'>
+<div class='container'>
+
+  <nav class='navigation-group'>
+    <ul>
+      <li>
+        <a href="/journals">Journals</a>
+      </li>
+
+      <li>
+        <a href="/conference">Annual Meeting</a>
+      </li>
+
+      <li>
+        <a href="/joe">Careers</a>
+      </li>
+
+      <li>
+        <a href="/resources">Resources</a>
+      </li>
+
+      <li>
+        <a href="/econlit">EconLit</a>
+      </li>
+
+        <li>
+            <a href="/econspark">EconSpark</a>
+        </li>
+
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+
+      <li>
+        <a href="/about-aea">About AEA</a>
+      </li>
+
+      
+        <li>
+          <a href="/login/">Log In</a>
+        </li>
+
+      
+      <li>
+        <a class="contact-link" href="/contact">Contact the AEA</a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class='social-media'>
+    <h3 class='section-title'>Find us on Facebook and Twitter:</h3>
+
+    <ul>
+
+        <li>
+            <a href='https://www.facebook.com/AEAjournals/' rel='me'><img class="social-icon" src="/assets/4241ddfb/images/fb_icon.svg">@AEAJournals</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/AEAJournals' rel='me'><img class="social-icon" src="/assets/4241ddfb/images/twitter_icon.svg">@AEAJournals</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/ASSAMeeting' rel='me'><img class="social-icon" src="/assets/4241ddfb/images/twitter_icon.svg">@ASSAMeeting</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/EconSpark' rel='me'><img class="social-icon" src="/assets/4241ddfb/images/twitter_icon.svg">@EconSpark</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/JOE_listings' rel='me'><img class="social-icon" src="/assets/4241ddfb/images/twitter_icon.svg">@JOE_listings</a>
+        </li>
+
+    </ul>
+
+  </section>
+
+  <section class='legal'>
+
+    <p class='copyright'>Copyright 2020 American Economic Association. All
+    rights reserved.</p>
+
+    <p class='footer-terms'><a href="/terms-of-service/site">Terms of Use</a> & <a href="/privacypolicy">Privacy Policy</a></p>
+
+  </section>
+</div>
+</footer></body></html>
